@@ -1,7 +1,49 @@
-h1{
-    background-color: pink;
-    
+body{
+    background-color: rgba(29, 211, 176, 1)
+
+}
+
+/*Main Heading*/
+h1, h2{
+    background-color: #b2ff9e;
+    color: rgb(60, 22, 66);
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     
+    
+}
+
+h1{
+    text-align: center;
+
+}
+
+
+.image-container{
+    /*Center image*/
+    text-align: center;
+    
+}
+
+img{
+    border: solid;
+    color: red;
+    border-width: 4px;
+
+}
+
+
+.image-label{   
+    
+    font-weight: bold;
+    text-align: center;
+        
+}
+
+p{
+    font-weight: bold;
+}
+
+ul, ol{
+    font-weight: bold;
 }
